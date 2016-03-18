@@ -1,3 +1,5 @@
-#!/bin/bash
+#!/bin/sh
+cp .emacs ~
+cp .tmux.conf ~
+cp *.el ~
 
-cp ~/env/.emacs ~
